@@ -1,0 +1,14 @@
+[{
+    "login":"peps",
+    "password":"1111",
+    "prenom":"Modou",
+    "nom":"FALL",
+    "role":"joueur"
+    },
+{
+    "login":"bocar95",
+    "password":"2222",
+    "prenom":"Bocar",
+    "nom":"DIALLO",
+    "role":"admin"
+}]
